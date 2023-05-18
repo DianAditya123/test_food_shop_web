@@ -12,7 +12,7 @@ export default {
           icon: 'success',
           title: 'Pesanan akan diproses',
           showConfirmButton: false,
-          timer: 1500
+          timer: 2000
         })
         }
     },
